@@ -15,7 +15,7 @@ function App() {
         <Contact />
       </main>
       <footer>
-        <p>© 2024 Your Name</p>
+        <p>© 2024 Benjamin Mensah</p>
       </footer>
     </div>
   );
